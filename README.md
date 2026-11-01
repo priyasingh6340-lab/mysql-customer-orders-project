@@ -160,19 +160,19 @@ The screenshots below show the work performed in MySQL Workbench. They are store
 
 ### 1. Customers table and inserted records
 
-![Customers table](screenshots/01_customers_table.png)
+![Customers table](01_customers_table.png)
 
 ### 2. Products table and inserted records
 
-![Products table](screenshots/02_products_table.png)
+![Products table](02_products_table.png)
 
 ### 3. Orders table and inserted records
 
-![Orders table](screenshots/03_orders_table.png)
+![Orders table](03_orders_table.png)
 
 ### 4. INNER JOIN query and output
 
-![INNER JOIN result](screenshots/04_inner_join_result.png)
+![INNER JOIN result](04_inner_join_result.png)
 
 ## How to run this project
 
